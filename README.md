@@ -1,9 +1,12 @@
 # Simulation-Methods-of-Stochastic-System
- Project No.1: Coin Flips
- Project No.2: Sampling and Statistics
- Project No.3: Sampling and Statistics
- Project No.4：Integrals and Intervals
- Project No.5: Markov chains and discrete events.
- Project No.6: Continuous sampling
- Project No.7: Expectation Maximization
- Project No.8: Markov Chain Monte Carlo
+Eight projects are completed by programming using Matlab.
+The topic of first project is Probability conception and data presentation.
+The topic of second project is bootstrap confidence interval and accetp-reject sampling.
+The topic of third project is statistic testing under different distributions.
+The topic of fourth project is Monte Carlo simulation and empirical distribution function.
+The topic of fifth project is Non-homogeneous Poisson process and discrete events.
+The topic of sixth project is alpha-stable distribution and Chambers-mallows-Stuck method.
+The topic of seventh project is Bayesian iterative learning process, expectation maximization algorithm, multivariate Gaussian distribution and K-means clustering method.
+The topic of eighth project is MCMC, Gibbs sampling, simulated annealing and Schwefel function.
+
+# Do not use or distribute the code without my permission.
