@@ -8,4 +8,6 @@ Eight projects are completed by programming using Matlab.
 6.The topic of sixth project is alpha-stable distribution and Chambers-mallows-Stuck method.  
 7.The topic of seventh project is Bayesian iterative learning process, expectation maximization algorithm, multivariate Gaussian distribution and K-means clustering method.  
 8.The topic of eighth project is MCMC, Gibbs sampling, simulated annealing and Schwefel function.  
+
+# Introduction to Computer Networks
 Do not use or distribute the code without my permission.
